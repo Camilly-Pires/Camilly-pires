@@ -1,4 +1,4 @@
-## Hello 👋 eu sou a Camilly
+## 👋 Hello, eu sou a Camilly
 
 🎓 Estudante de Sistemas de Informação na Fametro
 
@@ -16,3 +16,11 @@
 - 🧩 Aplicando lógica e resolução de problemas na criação de sistemas
 - 💾 Explorando banco de dados, desenvolvimento web e análise de dados
 - 🎯 Construindo meu portfólio e me preparando para oportunidades na área de TI
+
+## 🚀 Projetos em Destaque
+
+### 🛒 Loja React
+Projeto desenvolvido para praticar React, componentes e interface de usuário.
+
+### 🏭 Sistema Central dos Metais
+Projeto acadêmico voltado para gerenciamento de produtos, fornecedores e vendas.
