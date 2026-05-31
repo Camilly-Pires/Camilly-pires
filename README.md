@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Camilly-Pires/Camilly-pires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na Fametro
 
-Here are some ideas to get you started:
+💻 Desenvolvedora em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interesse em Análise de Dados, Desenvolvimento de Sistemas e Front-End
+
+🚀 Construindo experiência através de projetos acadêmicos e pessoais
+
+
+## 👩‍💻 Sobre mim
+
+- 💻 Desenvolvendo projetos para aprimorar minhas habilidades em programação
+- 📚 Aprendendo continuamente novas tecnologias e boas práticas de desenvolvimento
+- 🧩 Aplicando lógica e resolução de problemas na criação de sistemas
+- 💾 Explorando banco de dados, desenvolvimento web e análise de dados
+- 🎯 Construindo meu portfólio e me preparando para oportunidades na área de TI
