@@ -1,4 +1,4 @@
-## Hi there 👋 eu sou a Camilly
+## Hello 👋 eu sou a Camilly
 
 🎓 Estudante de Sistemas de Informação na Fametro
 
@@ -12,7 +12,7 @@
 ## 👩‍💻 Sobre mim
 
 - 💻 Desenvolvendo projetos para aprimorar minhas habilidades em programação
-- 📚 Aprendendo continuamente novas tecnologias e boas práticas de desenvolvimento
+- 📚 Aprendendo novas tecnologias e aprimorando minhas práticas de desenvolvimento
 - 🧩 Aplicando lógica e resolução de problemas na criação de sistemas
 - 💾 Explorando banco de dados, desenvolvimento web e análise de dados
 - 🎯 Construindo meu portfólio e me preparando para oportunidades na área de TI
